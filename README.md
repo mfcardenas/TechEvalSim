@@ -14,16 +14,25 @@ The following examples are proposed to work with 3D simulations where older peop
 <b>Example 1:</b> Older adult who lives alone in his home and performs different daily activities. <a href="https://github.com/mfcardenas/phat_example_oph01" target="_blank">(See Example)</a>.
 </td>
 <td>
-<img height="142" width="142" src="https://github.com/mfcardenas/phat_example_oph01/blob/master/img/img_older_people_home.png" />
+<img height="242" width="242" src="https://github.com/mfcardenas/phat_example_oph01/blob/master/img/img_older_people_home.png" />
 </td>
 </tr>
 <tr>
-    <td> 
-        <b>Example 2:</b> Older adult who lives alone in his home and performs different activities: drinking, greeting and wave attention. <a href="https://github.com/mfcardenas/phat_example_acthom_02" target="_blank">(See Example)</a>.    
-    </td>
-    <td>
-        <img height="142" width="142" src="https://github.com/mfcardenas/phat_example_acthome_02/blob/master/img/img_older_people_home.png" />
-    </td>
-</tr>
+         <td> 
+             <b>Example 2:</b> Older adult who lives alone in his home and performs different activities: drinking, greeting and wave attention. <a href="https://github.com/mfcardenas/phat_example_acthome_02" target="_blank">(See Example)</a>.    
+         </td>
+         <td>
+             <img height="242" width="242" src="https://github.com/mfcardenas/phat_example_acthome_02/blob/master/img/img_older_people_home.png" />
+         </td>
+     </tr>
+     <tr>
+              <td> 
+                  <b>Example 3:</b> Older adult who lives alone in his home and performs different activities: drinking, greeting and wave attention. <a href="https://github.com/mfcardenas/phat_example_acthome_02" target="_blank">(See Example)</a>.    
+              </td>
+              <td>
+                  <img height="242" width="242" src="https://github.com/mfcardenas/phat_example_acthome_02/blob/master/img/img_older_people_home.png" />
+              </td>
+          </tr>
+
 </table>
  
