@@ -11,7 +11,7 @@ The following examples are proposed to work with 3D simulations where older peop
 <table style="border:none;">
 <tr>
 <td>
-<b>Example 1:</b> Older adult who lives alone in his home and performs different daily activities. <a href="https://github.com/mfcardenas/phat_example_oph01" target="_blank">(See Example)</a>.
+<b>Example 1:</b> Older adult who lives alone in his home and performs different daily activities. <a href="https://github.com/mfcardenas/phat_example_oph01" target="_blank">(Source code in Git)</a>.
 </td>
 <td>
 <img height="242" width="242" src="https://github.com/mfcardenas/phat_example_oph01/blob/master/img/img_older_people_home.png" />
@@ -19,20 +19,56 @@ The following examples are proposed to work with 3D simulations where older peop
 </tr>
 <tr>
          <td> 
-             <b>Example 2:</b> Older adult who lives alone in his home and performs different activities: drinking, greeting and wave attention. <a href="https://github.com/mfcardenas/phat_example_acthome_02" target="_blank">(See Example)</a>.    
+             <b>Example 2:</b> Older adult who lives alone in his home and performs different activities: drinking, greeting and wave attention. <a href="https://github.com/mfcardenas/phat_example_acthome_02" target="_blank">(Source code in Git)</a>.    
          </td>
          <td>
              <img height="242" width="242" src="https://github.com/mfcardenas/phat_example_acthome_02/blob/master/img/img_older_people_home.png" />
          </td>
      </tr>
-     <tr>
-              <td> 
-                  <b>Example 3:</b> Older adult who lives alone in his home and performs different activities: drinking, greeting and wave attention. <a href="https://github.com/mfcardenas/phat_example_acthome_02" target="_blank">(See Example)</a>.    
-              </td>
-              <td>
-                  <img height="242" width="242" src="https://github.com/mfcardenas/phat_example_acthome_02/blob/master/img/img_older_people_home.png" />
-              </td>
-          </tr>
+<tr>
+      <td> 
+          <b>Example 3:</b> Patient performs basic activities while suffering tremors in hands and neck.
+                            While performing the activities this is monitored with acceleration sensors in both hands. <a href="https://github.com/mfcardenas/phat_example_monitoring_01" target="_blank">(Source code in Git)</a>.    
+      </td>
+      <td>
+          <img height="242" width="242" src="https://github.com/mfcardenas/phat_example_monitoring_01/blob/master/img/img_older_people_home.png" />
+      </td>
+  </tr>
+  
+<tr>
+<td> 
+   <b>Example 4:</b> Monitoring a user with acceleration sensors positioned in both hands while performing basic activities. <a href="https://github.com/mfcardenas/phat_example_monitoring_02" target="_blank">(Source code in Git)</a>.    
+</td>
+<td>
+   <img height="242" width="242" src="https://github.com/mfcardenas/phat_example_monitoring_02/blob/master/img/img_older_people_home.png" />
+</td>
+</tr>
 
+<tr>
+     <td> 
+         <b>Example 5:</b> Monitoring of a user with mobile phone acceleration sensors positioned on the chest and both hands while performing basic activities. <a href="https://github.com/mfcardenas/phat_example_monitoring_03" target="_blank">(Source code in Git)</a>.    
+     </td>
+     <td>
+         <img height="242" width="242" src="https://github.com/mfcardenas/phat_example_monitoring_03/blob/master/img/img_older_people_home.png" />
+     </td>
+ </tr>
+ 
+ <tr>
+      <td> 
+          <b>Example 6:</b> User with difficulty in the movement of hands and shoulder. A variation of the movement is made by means of an activity configuration file. <a href="https://github.com/mfcardenas/phat_example_variation_01" target="_blank">(Source code in Git)</a>.    
+      </td>
+      <td>
+          <img height="242" width="242" src="https://github.com/mfcardenas/phat_example_variation_01/blob/master/img/img_older_people_home.png" />
+      </td>
+  </tr>
+  
+  <tr>
+        <td> 
+            <b>Example 7:</b> Monitoring by acceleration sensor to a user in their home trying to close the refrigerator door while suffering tremors in hands and neck. <a href="https://github.com/mfcardenas/phat_example_monitoring_04" target="_blank">(Source code in Git)</a>.    
+        </td>
+        <td>
+            <img height="242" width="242" src="https://github.com/mfcardenas/phat_example_monitoring_04/blob/master/img/img_older_people_home.png" />
+        </td>
+    </tr>
 </table>
  
