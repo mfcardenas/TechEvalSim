@@ -27,7 +27,7 @@ The following examples are proposed to work with 3D simulations where older peop
      </tr>
 <tr>
       <td> 
-          <b>Example 3:</b> Patient performs basic activities while suffering tremors in hands and neck.
+          <b>Example 3:</b> Patient performs basic activities while suffering tremors in hands.
                             While performing the activities this is monitored with acceleration sensors in both hands. <a href="https://github.com/mfcardenas/phat_example_monitoring_01" target="_blank">(Source code in Git)</a>.    
       </td>
       <td>
@@ -45,7 +45,9 @@ The following examples are proposed to work with 3D simulations where older peop
 </tr>
 
 <tr>
-     <td> 
+     <td>
+        <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/warning.png" />
+        <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" /> 
          <b>Example 5:</b> Monitoring of a user with mobile phone acceleration sensors positioned on the chest and both hands while performing basic activities. <a href="https://github.com/mfcardenas/phat_example_monitoring_03" target="_blank">(Source code in Git)</a>.    
      </td>
      <td>
@@ -63,7 +65,9 @@ The following examples are proposed to work with 3D simulations where older peop
   </tr>
   
   <tr>
-        <td> 
+        <td>
+            <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/warning.png" />
+            <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" /> 
             <b>Example 7:</b> Monitoring by acceleration sensor to a user in their home trying to close the refrigerator door while suffering tremors in hands and neck. <a href="https://github.com/mfcardenas/phat_example_monitoring_04" target="_blank">(Source code in Git)</a>.    
         </td>
         <td>
