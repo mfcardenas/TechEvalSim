@@ -15,7 +15,7 @@ The following examples are proposed to work with 3D simulations where older peop
 <b>Example 1:</b> Older adult who lives alone in his home and performs different daily activities. <a href="https://github.com/mfcardenas/phat_example_oph01" target="_blank">(Source code in Git)</a>.
 </td>
 <td>
-<img height="242" width="442" src="https://github.com/mfcardenas/phat_example_oph01/blob/master/img/img_older_people_home.png" />
+<img height="242" width="642" src="https://github.com/mfcardenas/phat_example_oph01/blob/master/img/img_older_people_home.png" />
 </td>
 </tr>
 <tr>
@@ -23,7 +23,7 @@ The following examples are proposed to work with 3D simulations where older peop
              <b>Example 2:</b> Older adult who lives alone in his home and performs different activities: drinking, greeting and wave attention. <a href="https://github.com/mfcardenas/phat_example_acthome_02" target="_blank">(Source code in Git)</a>.    
          </td>
          <td>
-             <img height="242" width="442" src="https://github.com/mfcardenas/phat_example_acthome_02/blob/master/img/img_older_people_home.png" />
+             <img height="242" width="642" src="https://github.com/mfcardenas/phat_example_acthome_02/blob/master/img/img_older_people_home.png" />
          </td>
      </tr>
 <tr>
@@ -32,7 +32,7 @@ The following examples are proposed to work with 3D simulations where older peop
                             While performing the activities this is monitored with acceleration sensors in both hands. <a href="https://github.com/mfcardenas/phat_example_monitoring_01" target="_blank">(Source code in Git)</a>.    
       </td>
       <td>
-          <img height="242" width="442" src="https://github.com/mfcardenas/phat_example_monitoring_01/blob/master/img/img_older_people_home.png" />
+          <img height="242" width="642" src="https://github.com/mfcardenas/phat_example_monitoring_01/blob/master/img/img_older_people_home.png" />
       </td>
   </tr>
   
@@ -41,7 +41,7 @@ The following examples are proposed to work with 3D simulations where older peop
    <b>Example 4:</b> Monitoring a user with acceleration sensors positioned in both hands while performing basic activities. <a href="https://github.com/mfcardenas/phat_example_monitoring_02" target="_blank">(Source code in Git)</a>.    
 </td>
 <td>
-   <img height="242" width="442" src="https://github.com/mfcardenas/phat_example_monitoring_02/blob/master/img/img_older_people_home.png" />
+   <img height="242" width="642" src="https://github.com/mfcardenas/phat_example_monitoring_02/blob/master/img/img_older_people_home.png" />
 </td>
 </tr>
 
@@ -54,7 +54,7 @@ The following examples are proposed to work with 3D simulations where older peop
          <a href="https://github.com/mfcardenas/phat_example_monitoring_03" target="_blank">(Source code in Git)</a>.    
      </td>
      <td>
-         <img height="242" width="442" src="https://github.com/mfcardenas/phat_example_monitoring_03/blob/master/img/img_older_people_home.png" />
+         <img height="242" width="642" src="https://github.com/mfcardenas/phat_example_monitoring_03/blob/master/img/img_older_people_home.png" />
      </td>
  </tr>
  
@@ -63,7 +63,7 @@ The following examples are proposed to work with 3D simulations where older peop
           <b>Example 6:</b> User with difficulty in the movement of hands and shoulder. A variation of the movement is made by means of an activity configuration file. <a href="https://github.com/mfcardenas/phat_example_variation_01" target="_blank">(Source code in Git)</a>.    
       </td>
       <td>
-          <img height="242" width="442" src="https://github.com/mfcardenas/phat_example_variation_01/blob/master/img/img_older_people_home.png" />
+          <img height="242" width="642" src="https://github.com/mfcardenas/phat_example_variation_01/blob/master/img/img_older_people_home.png" />
       </td>
   </tr>
   
@@ -77,7 +77,7 @@ The following examples are proposed to work with 3D simulations where older peop
             <a href="https://github.com/mfcardenas/phat_example_monitoring_04" target="_blank">(Source code in Git)</a>.    
         </td>
         <td>
-            <img height="242" width="442" src="https://github.com/mfcardenas/phat_example_monitoring_04/blob/master/img/img_older_people_home.png" />
+            <img height="242" width="642" src="https://github.com/mfcardenas/phat_example_monitoring_04/blob/master/img/img_older_people_home.png" />
         </td>
     </tr>
 </table>
