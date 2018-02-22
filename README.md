@@ -67,9 +67,12 @@ The following examples are proposed to work with 3D simulations where older peop
   
   <tr>
         <td>
-            <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/warning.png" title="Warning"/>
             <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/> 
-            <b>Example 7:</b> Monitoring by acceleration sensor to a user in their home trying to close the refrigerator door while suffering tremors in hands and neck. <a href="https://github.com/mfcardenas/phat_example_monitoring_04" target="_blank">(Source code in Git)</a>.    
+            <b>Example 7:</b> 
+            <b>A user</b> with tremor in both hands <b>and his caregiver.</b>
+            The caregiver closes the refrigerator door while the patient walks through the house while suffering from an episode of tremors in both hands.
+            The user is being monitored with sensors in both hands. 
+            <a href="https://github.com/mfcardenas/phat_example_monitoring_04" target="_blank">(Source code in Git)</a>.    
         </td>
         <td>
             <img height="242" width="242" src="https://github.com/mfcardenas/phat_example_monitoring_04/blob/master/img/img_older_people_home.png" />
