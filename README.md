@@ -79,6 +79,19 @@ The following examples are proposed to work with 3D simulations where older peop
         <td>
             <img height="200" width="642" src="https://github.com/mfcardenas/phat_example_monitoring_04/blob/master/img/img_older_people_home.png" />
         </td>
-    </tr>
+    </tr>   
+    <tr>
+            <td>
+                <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/> 
+                <b>Example 7:</b> 
+                <b>SociAAL</b> --> Example made with the SociAAL tool, which allows creating a simulation scenario with modeling language.. 
+                <a href="https://github.com/mfcardenas/phat_example_sociaal_01" target="_blank">(Source code in Git)</a>.    
+            </td>
+            <td>
+                <img height="200" width="642" src="https://github.com/mfcardenas/phat_example_sociaal_01/blob/master/img/img_phat_example_sociaal.png" />
+            </td>
+        </tr>
 </table>
+
+
  
