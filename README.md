@@ -83,7 +83,7 @@ The following examples are proposed to work with 3D simulations where older peop
     <tr>
             <td>
                 <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/> 
-                <b>Example 7:</b> 
+                <b>Example 8:</b> 
                 <b>SociAAL</b> --> Example made with the SociAAL tool, which allows creating a simulation scenario with modeling language.. 
                 <a href="https://github.com/mfcardenas/phat_example_sociaal_01" target="_blank">(Source code in Git)</a>.    
             </td>
