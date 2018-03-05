@@ -47,7 +47,7 @@ The following examples are proposed to work with 3D simulations where older peop
 
 <tr>
      <td>
-        <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/warning.png" title="Warning"/>
+        <!--img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/warning.png" title="Warning"/-->
         <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/> 
          <b>Example 5:</b> A user presents an episode of tremors in the hands and neck. While the episode occurs, the gesture of opening a door is assigned. 
          The gesture is deteriorated to a different degree with both hands. While performing the gesture, two accelerometry sensors positioned in both hands are read. 
