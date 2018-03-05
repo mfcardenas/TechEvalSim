@@ -19,7 +19,7 @@ The following examples are proposed to work with 3D simulations where older peop
 </td>
 </tr>
 <tr>
-         <td> 
+         <td> <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/>
              <b>Example 2:</b> Older adult who lives alone in his home and performs different activities: drinking, greeting and wave attention. <a href="https://github.com/mfcardenas/phat_example_acthome_02" target="_blank">(Source code in Git)</a>.    
          </td>
          <td>
