@@ -11,7 +11,8 @@ The following examples are proposed to work with 3D simulations where older peop
 <table style="border:none;">
 <tr>
 <td>
-<img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/>
+<img height="50" width="50" src="https://github.com/mfcardenas/phat_examples/blob/master/img/warning.png" title="Warning"/>
+<img height="50" width="50" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/>
 <b>Example 1:</b> Older adult who lives alone in his home and performs different daily activities. <a href="https://github.com/mfcardenas/phat_example_oph01" target="_blank">(Source code in Git)</a>.
 </td>
 <td>
@@ -19,7 +20,9 @@ The following examples are proposed to work with 3D simulations where older peop
 </td>
 </tr>
 <tr>
-         <td> <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/>
+         <td> 
+         <img height="50" width="50" src="https://github.com/mfcardenas/phat_examples/blob/master/img/warning.png" title="Warning"/>
+         <img height="50" width="50" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/>
              <b>Example 2:</b> Older adult who lives alone in his home and performs different activities: drinking, greeting and wave attention. <a href="https://github.com/mfcardenas/phat_example_acthome_02" target="_blank">(Source code in Git)</a>.    
          </td>
          <td>
@@ -47,8 +50,8 @@ The following examples are proposed to work with 3D simulations where older peop
 
 <tr>
      <td>
-        <!--img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/warning.png" title="Warning"/-->
-        <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/> 
+        <!--img height="50" width="50" src="https://github.com/mfcardenas/phat_examples/blob/master/img/warning.png" title="Warning"/-->
+        <img height="50" width="50" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/> 
          <b>Example 5:</b> A user presents an episode of tremors in the hands and neck. While the episode occurs, the gesture of opening a door is assigned. 
          The gesture is deteriorated to a different degree with both hands. While performing the gesture, two accelerometry sensors positioned in both hands are read. 
          <a href="https://github.com/mfcardenas/phat_example_monitoring_03" target="_blank">(Source code in Git)</a>.    
@@ -69,7 +72,7 @@ The following examples are proposed to work with 3D simulations where older peop
   
   <tr>
         <td>
-            <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/> 
+            <img height="50" width="50" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/> 
             <b>Example 7:</b> 
             <b>A user</b> with tremor in both hands <b>and his caregiver.</b>
             The caregiver closes the refrigerator door while the patient walks through the house while suffering from an episode of tremors in both hands.
@@ -82,7 +85,7 @@ The following examples are proposed to work with 3D simulations where older peop
     </tr>   
     <tr>
             <td>
-                <img height="80" width="80" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/> 
+                <img height="50" width="50" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/> 
                 <b>Example 8:</b> 
                 <b>SociAAL</b> --> Example made with the SociAAL tool, which allows creating a simulation scenario with modeling language.. 
                 <a href="https://github.com/mfcardenas/phat_example_sociaal_01" target="_blank">(Source code in Git)</a>.    
