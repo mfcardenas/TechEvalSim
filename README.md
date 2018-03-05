@@ -50,7 +50,6 @@ The following examples are proposed to work with 3D simulations where older peop
 
 <tr>
      <td>
-        <!--img height="50" width="50" src="https://github.com/mfcardenas/phat_examples/blob/master/img/warning.png" title="Warning"/-->
         <img height="50" width="50" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/> 
          <b>Example 5:</b> A user presents an episode of tremors in the hands and neck. While the episode occurs, the gesture of opening a door is assigned. 
          The gesture is deteriorated to a different degree with both hands. While performing the gesture, two accelerometry sensors positioned in both hands are read. 
@@ -62,7 +61,8 @@ The following examples are proposed to work with 3D simulations where older peop
  </tr>
  
  <tr>
-      <td> 
+      <td>
+          <img height="50" width="50" src="https://github.com/mfcardenas/phat_examples/blob/master/img/in_progress.png" title="The example is under construction"/>
           <b>Example 6:</b> User with difficulty in the movement of hands and shoulder. A variation of the movement is made by means of an activity configuration file. <a href="https://github.com/mfcardenas/phat_example_variation_01" target="_blank">(Source code in Git)</a>.    
       </td>
       <td>
