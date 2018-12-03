@@ -8,6 +8,16 @@ This development philosophy is what we call Virtual Living Lab This transfer has
 
 The following examples are proposed to work with 3D simulations where older people perform basic activities that can be studied applying HAR techniques.
 
+## Fetching all examples
+
+This repository is an aggregator of various other ones, which are defined as git submodules for this project. In order to fetch all the examples in one go, you should perform the following commands:
+
+```bash
+git clone https://github.com/mfcardenas/phat_examples.git
+cd phat_examples
+git submodule init
+git submodule update
+```
 <table style="border:none;">
 <tr>
 <td>
