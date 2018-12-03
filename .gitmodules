@@ -1,0 +1,24 @@
+[submodule "phat_example_oph01"]
+	path = phat_example_oph01
+	url = https://github.com/mfcardenas/phat_example_oph01.git
+[submodule "phat_example_acthome_02"]
+	path = phat_example_acthome_02
+	url = https://github.com/mfcardenas/phat_example_acthome_02.git
+[submodule "phat_example_monitoring_01"]
+	path = phat_example_monitoring_01
+	url = https://github.com/mfcardenas/phat_example_monitoring_01.git
+[submodule "phat_example_monitoring_02"]
+	path = phat_example_monitoring_02
+	url = https://github.com/mfcardenas/phat_example_monitoring_02.git
+[submodule "phat_example_monitoring_03"]
+	path = phat_example_monitoring_03
+	url = https://github.com/mfcardenas/phat_example_monitoring_03.git
+[submodule "phat_example_variation_01"]
+	path = phat_example_variation_01
+	url = https://github.com/mfcardenas/phat_example_variation_01.git
+[submodule "phat_example_monitoring_04"]
+	path = phat_example_monitoring_04
+	url = https://github.com/mfcardenas/phat_example_monitoring_04.git
+[submodule "phat_example_sociaal_01"]
+	path = phat_example_sociaal_01
+	url = https://github.com/mfcardenas/phat_example_sociaal_01.git
