@@ -1,5 +1,5 @@
-# PHAT Examples
-
+# Techniques for quantitative evaluation of 3D simulations
+## PHAT Case studies
 The development of Ambient Assisted Living (AAL) systems is a challenging one. It’s is inherently expensive because of, among others, the necessary experi-mentation and availability of hardware, the uncertainty in the determining the necessary functionality which leads to longer development periods, the need of incorporating the end-user in the development so as to have early feedback, and, at the same time, the complexity of preserving the end-user dignity, privacy, and integrity.
 
 By transferring the development work of the AAL solution to the computer, several benefits are achieved. The main one is the cost reduction since the development environment is not a demanding one and computers designed for gaming will be sufficient. A secondary one is the easiness of experimentation, with the capability of running batteries of tests in a deterministic way.
